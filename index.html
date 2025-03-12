@@ -273,7 +273,12 @@
           modelViewer.setAttribute('auto-rotate', '');
           modelViewer.setAttribute('camera-controls', '');
 
+          const fileNameDisplay = document.createElement('div');
+          fileNameDisplay.textContent = glbFile; // Display the GLB file name
+          fileNameDisplay.style.marginTop = '10px'; // Add some space between the model and the text
+
           modelContainer.appendChild(modelViewer);
+          modelContainer.appendChild(fileNameDisplay);
           galleryViewer.appendChild(modelContainer);
         }
       }
