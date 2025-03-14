@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href=https://zebinhe.github.io/MaterialMVP/ target="_blank"><img src= https://img.shields.io/badge/Project%20page-bb8a2e.svg?logo=github height=22px></a>
-  <a href=# target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv height=22px></a>
+  <a href=https://arxiv.org/abs/2503.10289 target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv height=22px></a>
 </div>
 
 <!-- **[MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion](#)**
