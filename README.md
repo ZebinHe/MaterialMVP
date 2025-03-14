@@ -37,4 +37,4 @@ Chunchao Guo<sup>2&dagger;</sup>,
 
 ## 🔥 News
 
-- Mar 14, 2025: [arXiv](#) preprint is now available.
+- Mar 14, 2025: [arXiv](https://arxiv.org/abs/2503.10289) preprint is now available.
