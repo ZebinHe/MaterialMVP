@@ -1,4 +1,4 @@
-# [ICCV 2025] MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion
+# [ICCV 2025 Highlight] MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion
 <p align="center"> 
   <img src="./assets/TEASER7.png">
 
